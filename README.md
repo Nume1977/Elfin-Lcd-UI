@@ -14,4 +14,7 @@ The IDE can be downloaded here: https://developer.flythings.cn/zh-hans/download.
 
 The documentation is all in chinese and can be found here: https://translate.google.com/translate?hl=&sl=auto&tl=pt&u=https%3A%2F%2Fdeveloper.flythings.cn%2Fzh-hans%2F
 
+The color scheme selected for the UI was this one:
+
+https://coolors.co/12355b-420039-d72638-ffffff-ff570a
 
