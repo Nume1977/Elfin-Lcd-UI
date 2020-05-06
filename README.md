@@ -1,6 +1,12 @@
 # Nova3d Elfin Lcd UI
 Nova3D Elfin Lcd UI remake
 
+From this:
+![preform_diagnostics_mode](https://raw.githubusercontent.com/Nume1977/Nova3D-File-Manager/master/imgs/image.png)
+
+To This:
+![preform_diagnostics_mode](https://raw.githubusercontent.com/Nume1977/Nova3D-File-Manager/master/imgs/image.png)
+
 The Nova3D lcd panel can be programmed using flytech SDK.
 This project is aimed to create a better looking User Interface for the machines that use this type of LCD.
 
