@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_print">Print</string>
+    <string name="_config">Config</string>
+    <string name="_control">Control</string>
+    <string name="_yes">Yes</string>
+    <string name="_no">No</string>
+    <string name="_back">Back</string>
+    <string name="_cancel">Cancel</string>
+    <string name="_save">Save</string>
+    <string name="_import">Import</string>
+    <string name="_accept">Accept</string>
+    <string name="_start">Start</string>
+    <string name="_screentest">Test Screen</string>
+    <string name="_delete">Delete this file?</string>
+    <string name="_pauseprint">Pause the print?</string>
+    <string name="_stopprint">Stop the print?</string>
+    <string name="_printfile">Start the print?</string>
+    <string name="_language">Select Language</string>
+    <string name="_brightness">Screen Brightness</string>
+    <string name="_home">Home</string>
+    <string name="_setzero">Set Zero</string>
+    <string name="_reset">Reset</string>
+    <string name="_versionfw">Firmware Version:</string>
+    <string name="_versionhw">Hardware Version:</string>
+    <string name="_configScheck">Screen Check</string>
+    <string name="_configCalibration">Calibration</string>
+    <string name="_configNetwork">Network</string>
+    <string name="_configLanguage">Language</string>
+    <string name="_configBacklight">Touch Backlight</string>
+    <string name="_configVersion">Version Info</string>
+    <string name="_configAbout">About / Credits</string>
+    <string name="_wifi">Wifi</string>
+    <string name="_wired">Wired</string>
+    <string name="_ip">I.P.</string>
+    <string name="_msg_warningPrint">Please ensure VAT and platform are clean!</string>
+    <string name="_msg_Scheck">An image will appear on the print screen for 10s.&#x000A;&#x000A;If the image does not show or there are spots, please&#x000A;contact Nova3D support.</string>
+    <string name="_bottomLayers">Bottom layer count</string>
+    <string name="_bottomexposure">Bottom Exposure(ms)</string>
+    <string name="_normalexposure">Normal Exposure(ms)</string>
+    <string name="_liftspeed">Lift Speed(mm/min)</string>
+    <string name="_msg_credits">This firmware was made possible with the help of the following companies, groups and people:</string>
+</resources>
