@@ -2,7 +2,7 @@
 Nova3D Elfin Lcd UI remake
 
 From this:
-![preform_diagnostics_mode](images/before.jpg)
+![preform_diagnostics_mode](images/before.JPG)
 
 To This:
 ![preform_diagnostics_mode](images/after.jpg)
