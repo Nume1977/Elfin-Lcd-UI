@@ -7,7 +7,7 @@ From this:
 To This:
 ![preform_diagnostics_mode](images/after.jpg)
 
-The Nova3D lcd panel can be programmed using flytech SDK.
+The Nova3D lcd panel can be programmed using flyThings SDK.
 This project is aimed to create a better looking User Interface for the machines that use this type of LCD.
 
 The IDE can be downloaded here: https://developer.flythings.cn/zh-hans/download.html (warning slow)
