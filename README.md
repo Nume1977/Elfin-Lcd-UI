@@ -1,4 +1,4 @@
-# Elfin Lcd UI
+# Nova3d Elfin Lcd UI
 Nova3D Elfin Lcd UI remake
 
 The Nova3D lcd panel can be programmed using flytech SDK.
