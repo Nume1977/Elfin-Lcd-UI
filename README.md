@@ -16,5 +16,5 @@ The documentation is all in chinese and can be found here: https://translate.goo
 
 The color scheme selected for the UI was this one:
 
-https://coolors.co/12355b-420039-d72638-ffffff-ff570a
+![preform_diagnostics_mode](images/colors.png)
 
