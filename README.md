@@ -10,11 +10,12 @@ From this:
 To This:
 ![preform_diagnostics_mode](images/after.jpg)
 
-The IDE can be downloaded here: https://developer.flythings.cn/zh-hans/download.html (warning slow)
-
-The documentation is all in chinese and can be found here: https://translate.google.com/translate?hl=&sl=auto&tl=pt&u=https%3A%2F%2Fdeveloper.flythings.cn%2Fzh-hans%2F
-
 The color scheme selected for the UI was this one:
 
 ![preform_diagnostics_mode](images/colors.png)
+
+
+The IDE can be downloaded here: https://developer.flythings.cn/zh-hans/download.html (warning slow)
+
+The documentation is all in chinese and can be found here: https://translate.google.com/translate?hl=&sl=auto&tl=pt&u=https%3A%2F%2Fdeveloper.flythings.cn%2Fzh-hans%2F
 
